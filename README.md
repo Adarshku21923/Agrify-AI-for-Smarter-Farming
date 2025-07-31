@@ -1,4 +1,4 @@
-# Intel-one-API Online AI Hackathon: Agrify🌿
+# Agrify: AI for Smarter Farming 🌿
 Team Name: Team Data Warriors   
 Team Members: Chinmay Gupta, Ajay Paliwal, Alok Kumar Roy  
 Institute: Indian Institute of Technology Kharagpur, West Bengal, India 
